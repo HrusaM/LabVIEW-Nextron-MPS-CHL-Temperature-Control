@@ -46,10 +46,10 @@ https://www.icpdas.com/en/download/index.php?model=tM-7561
 
 ## Repository Structure
 
-src/Drivers – Low-level and high-level LabVIEW drivers for Nextron MPS-CHL
-src/Application – Main control application and UI-related VIs
-examples – Simple example VIs demonstrating basic usage
-project – LabVIEW project file (.lvproj)
+- src/Drivers – Low-level and high-level LabVIEW drivers for Nextron MPS-CHL
+- src/Application – Main control application and UI-related VIs
+- examples – Simple example VIs demonstrating basic usage
+- project – LabVIEW project file (.lvproj)
 
 ---
 
