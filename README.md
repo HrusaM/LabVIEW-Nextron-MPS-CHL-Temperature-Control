@@ -11,6 +11,14 @@ The target hardware platform is the Nextron MPS-CHL micro-probe system, as descr
 
 ---
 
+## Buy Me a Coffee
+
+If you find this project useful, you can optionally support my work by buying me a coffee.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Z020CFC6)
+
+---
+
 ## Disclaimer
 
 This project is **not an official Nextron product**.  
